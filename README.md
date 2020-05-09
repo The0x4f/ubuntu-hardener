@@ -7,6 +7,7 @@ This script is made for hardening your Ubuntu-install.
 cd to your directory
 
 `chmod +x harden-ubuntu.sh`\
+\
 `sudo ./harden-ubuntu.sh`
 
 And you're done when the script is done.
