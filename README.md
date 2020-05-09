@@ -1,7 +1,7 @@
 # Ubuntu Hardener
 This script is made for hardening your Ubuntu-install.
 
-#Usage
+# Usage
 `git clone https://github.com/The0x4f/ubuntu-hardener`
 
 cd to your directory
